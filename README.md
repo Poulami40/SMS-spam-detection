@@ -1,2 +1,2 @@
 # SMS-spam-detection
-An SMS spam detection using Multinomial NB model,Custom vec embedding model and Bidirectional LSTM model
+This project focuses on developing an effective SMS spam detection system using three models: Multinomial Naive Bayes, Custom Vector Embedding, and Bidirectional Long Short-Term Memory (LSTM). These models aim to accurately classify SMS messages as spam or not spam. Multinomial NB relies on probabilistic methods, Custom Vector Embedding uses advanced text embedding, and Bidirectional LSTM captures sequential patterns for improved context understanding. By leveraging these models, the project aims to create a robust SMS spam detection system, enhancing user communication and security.
